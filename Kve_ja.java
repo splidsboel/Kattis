@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Main{
+public class Kve_ja{
     public static void main(String[] args) {
-        
         Scanner stdin = new Scanner(System.in);
 
-        String x = stdin.nextLine();
+        String name = stdin.nextLine();
 
-        System.out.println(x.replaceAll("\\s", ""));
+        System.out.println("Kvedja, \n" + name);
+
     }
 }

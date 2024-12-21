@@ -1,9 +1,12 @@
 import java.util.Scanner;
 
-public class Main{
+public class _vissa{
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
 
-        System.out.println(stdin.nextLine());
+        int leString = stdin.nextLine().length();
+
+        System.out.println(leString);
+
     }
 }

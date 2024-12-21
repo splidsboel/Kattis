@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Flatb_kuveisla{
 
 
     public static void main(String[] args) {

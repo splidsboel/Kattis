@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Faktor{
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
         int articles = stdin.nextInt();

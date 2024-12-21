@@ -1,15 +1,12 @@
 import java.util.Scanner;
 
-public class Main{
+public class Leyni_j_nusta{
     public static void main(String[] args) {
+        
         Scanner stdin = new Scanner(System.in);
 
-        int cars = stdin.nextInt();
+        String x = stdin.nextLine();
 
-        cars += stdin.nextInt();
-
-        System.out.println(cars);
-
-
+        System.out.println(x.replaceAll("\\s", ""));
     }
 }

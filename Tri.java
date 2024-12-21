@@ -1,5 +1,3 @@
-package Tri;
-
 import java.util.Scanner;
 
 public class Tri {

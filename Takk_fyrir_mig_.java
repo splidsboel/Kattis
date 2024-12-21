@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Takk_fyrir_mig_{
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Millif_rsla{
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
 

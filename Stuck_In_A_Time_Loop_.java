@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Stuck_In_A_Time_Loop_{
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
 
