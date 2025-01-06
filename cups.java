@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -32,5 +33,7 @@ public class cups {
         for(Map.Entry<String, Integer> entry : sortedCupMap.entrySet()){
             System.out.println(entry.getKey());
         }
+
+        long count = Arrays.stream("null".split("")).count();
     }
 }
